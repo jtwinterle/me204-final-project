@@ -48,4 +48,3 @@ This project explored how brewery characteristics vary across the United States 
 Three key findings emerged. First, micro breweries dominate the industry. Second, brewery activity is concentrated in a relatively small number of states, with California containing the highest number of breweries in the dataset. Finally, brewery locations form clear regional clusters that highlight areas where breweries are especially common.
 
 Together, these findings demonstrate that the U.S. brewing industry is characterised by both business-type concentration and geographic clustering rather than an even distribution across the country.
-S
