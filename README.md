@@ -113,4 +113,4 @@ NB03 loads the processed data, performs the analysis, and creates the visualisat
 
 ## Use of AI
 
-Generative AI tools were used during the development of this project to assist with debugging Python code, improving the clarity of Markdown documentation, and explaining programming concepts encountered during development. All code was reviewed, executed, tested, and modified as needed, and the final analysis, visualisations, and written content were verified before submission.S
+Generative AI tools were used during the development of this project to assist with debugging Python code and improving the wording on my markdowns
