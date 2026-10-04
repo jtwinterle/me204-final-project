@@ -43,7 +43,7 @@ final-project/
 │
 ├── README.md
 ├── .gitignore
-├── .env.example
+├── requirements.txt
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -91,11 +91,9 @@ The public website is located in the `docs` folder. It presents the project's re
 
 ## Software Requirements
 
-The project was completed using Python and the following libraries:
+## Software Requirements
 
-- pandas
-- plotly
-- pathlib
+Python 3 with requests, pandas, plotly, and nbformat. Install with `pip install -r requirements.txt`.
 
 ## How to Reproduce
 
